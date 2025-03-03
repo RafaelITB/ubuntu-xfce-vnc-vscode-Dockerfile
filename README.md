@@ -12,7 +12,7 @@ You can change these credentials by modifying the `Dockerfile` before building t
 
 Download the `Dockerfile` and run the following command in the same directory:
 ```
-sudo docker build -t my_container .
+sudo docker build -t my_container -f dfDeveloper.
 ```
 ### Running the Container
 
